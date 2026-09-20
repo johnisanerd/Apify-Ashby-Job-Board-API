@@ -330,4 +330,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 Made with care by [johnvc on Apify](https://apify.com/johnvc?fpr=9n7kx3).
 
-Last Updated: 2026.08.27
+Last Updated: 2026.09.20
